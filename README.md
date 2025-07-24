@@ -13,3 +13,8 @@ commerce to analyze monthly sales, customer segmentation, and order fulfillment 
 
 HR Analysis Dashboard: Designed and developed an interactive dashboard to visualize employee
 demographics, performance, and attrition trends for effective HR decision-making.
+
+# Amazon Sales Dashboard
+
+Amazon Sales Dashboard: Developed an Amazon sales dashboard to monitor key performance indicators
+such as orders, return rates, and product category performance.
